@@ -1,7 +1,7 @@
 ### Hi Welcome 👋
 ![](https://pbs.twimg.com/profile_banners/1274209880023285760/1628272017/1500x500)
 
-I'm Donny Marsahid from Indonesian stay in Jakarta City, I'm a fullstack developer, I like to learn programming languages and certain frameworks, and I have a personal website that contains my personal bio and portfolio "[donny.netlify.app](https://donny.netlify.app)"
+I'm Donny Marsahid from Indonesian stay in Jakarta City, I'm a developer, I like to learn programming languages and certain frameworks, and I have a personal website that contains my personal bio and portfolio "[donny.netlify.app](https://donny.netlify.app)"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/donnymrshd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/donnymrshd_" height="30" width="40" /></a>
