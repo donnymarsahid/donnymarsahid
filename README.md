@@ -1,3 +1,9 @@
+  <p align="center">
+     <samp>
+ <br>
+    HI, Welcome!
+    </samp>
+  </p>  
   <p align="left">
      <samp>
  <br>
@@ -6,10 +12,8 @@
   </p>
 <!-- <p align="right"><b><samp>」</samp></b></p> -->
 
-<br>
 
-
-<h2></h2><br>
+<h2></h2> <br>
 <p align="left">
   <samp>
   My Social Media <br>
@@ -17,9 +21,7 @@
     <a href="donnymrshd.94@gmail.com">E-Mail</a>
   </samp>
 </p>
-
 <h2></h2>
-
 <p align="left">
   <samp>
   Github Stats
