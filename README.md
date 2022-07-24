@@ -16,9 +16,12 @@
 <h2></h2> <br>
 <p align="left">
   <samp>
-  My Social Media <br>
-  	<a href="https://www.instagram.com/donnymrshd/">Instagram</a>
-    <a href="donnymrshd.94@gmail.com">E-Mail</a>
+  	<a href="https://www.instagram.com/donnymrshd/">Instagram</a>, 
+    <a href="donnymrshd.94@gmail.com">E-Mail</a>,
+    <a href="https://dribbble.com/donnymrshd">Dribbble</a>,
+    <a href="https://www.facebook.com/donymarsahid">Facebook</a>,
+    <a href="https://www.linkedin.com/in/donny-marsahid/">LinkedIn</a>,
+    <a href="https://twitter.com/donny_mrshd">Twitter</a>
   </samp>
 </p>
 <h2></h2>
