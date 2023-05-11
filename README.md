@@ -24,13 +24,7 @@
     <a href="https://twitter.com/donny_mrshd">Twitter</a>
   </samp>
 </p>
-<h2></h2>
-<p align="left">
-  <samp>
-  Github Stats
-  </samp>
-</p>
-
+<h2></h2> 
 
 
 
