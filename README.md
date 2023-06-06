@@ -7,7 +7,7 @@
   <p align="left">
      <samp>
  <br>
-    I'm Donny Marsahid from Indonesian stay in Jakarta City, I'm a developer, I like to learn design as well as certain programming languages and frameworks, and I have a personal website that contains my personal bio and portfolio  <a href="https://donny.website/" target="_blank"><> donny.website <> </a>
+    I'm Donny Marsahid from Indonesian stay in Jakarta City, I'm a developer, I like to learn design as well as certain programming languages and frameworks, and I have a personal website that contains my personal bio and portfolio  <a href="https://donnymarsahid.my.id/" target="_blank"><> donnymarsahid.my.id <> </a>
     </samp>
   </p>
 <!-- <p align="right"><b><samp>」</samp></b></p> -->
