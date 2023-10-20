@@ -18,7 +18,7 @@
 
 I'm a passionate Fullstack Developer with a love for crafting software and building web applications. I enjoy tackling complex problems and turning them into elegant solutions. Here's a little more about me:
 
-- 🌍 Location: Jakarta
+- 🌍 Location: Jakarta, Indonesia
 - 💼 JobDesk: Fullstack Developer
 
 ### Tech Stack
