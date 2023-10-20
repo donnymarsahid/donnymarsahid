@@ -21,30 +21,30 @@
 
 I'm a passionate Fullstack Developer with a love for crafting software and building web applications. I enjoy tackling complex problems and turning them into elegant solutions. Here's a little more about me:
 
-- 🌍 Location: [Your Location]
-- 💼 Current Job: Fullstack Developer at [Your Company]
+- 🌍 Location: Jakarta
+- 💼 JobDesk: Fullstack Developer
 
 ### Tech Stack
 
 I work with a variety of technologies, including but not limited to:
 
-- Front-end: HTML, CSS, JavaScript, React, Angular
+- Front-end: HTML, CSS, JavaScript, React.js, Angular, Next.js
 - Back-end: Node.js, Python, PHP
-- Databases: MySQL, MongoDB, PostgreSQL
-- Mobile Development: React Native
+- Databases: MySQL, MongoDB, PostgreSQL, Firebase
+- Mobile Development: React Native, Flutter
 
-### My Projects
+### My Portfolio
 
-Here are some of my recent projects:
+Welcome to my portfolio! Here's a showcase of some of the projects I'm particularly proud of:
 
-- [Project 1](link_to_project_1): Brief description of the project.
-- [Project 2](link_to_project_2): Brief description of the project.
-- [Project 3](link_to_project_3): Brief description of the project.
+- [Personal Website](https://donnymarsahid.my.id): My personal website where you can learn more about me, explore my portfolio, and read articles I've written.
 
-Feel free to explore my repositories for more projects and code.
+On my [Personal Website](https://donnymarsahid.my.id), you can find detailed information about my projects, my bio, and a collection of articles I've written. It's the central hub for everything related to my work and interests.
+
+Explore these projects and articles for a deeper look into my work and coding style.
 
 ### Contact Me
 
-You can reach out to me via email at [your@email.com]. I'm also active on LinkedIn and Twitter, so don't hesitate to connect with me.
+You can reach out to me via email at [donnymrshd.94@email.com]. I'm also active on LinkedIn and Twitter, so don't hesitate to connect with me.
 
 Thanks for visiting my GitHub profile, and happy coding! 🚀
