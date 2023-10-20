@@ -1,16 +1,13 @@
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
+<h1 align="center">👋 Hello, I'm Donny Marsahid</h1>
 <p align="center">
   Fullstack Developer | Web Enthusiast
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/donny-marsahid">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:donnymrshd.94@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </div>
